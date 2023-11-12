@@ -1,1 +1,1 @@
-# Double-Pendulum-Modeling
+# Double Pendulum Modeling
